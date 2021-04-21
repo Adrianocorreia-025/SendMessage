@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeuAplicativo</string>
+    <string name="welcome" />
+    <string name="string_welcome" />
+    <string name="enviar">Enviar</string>
+    <string name="welcome_Adriano">welcome</string>
+    <string name="escreve_o_seu_nome">Escreve O seu Nome</string>
+    <string name="olamundo">OlaMundo</string>
+    <string name="textview">TextView</string>
+</resources>
